@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CafeApp</string>
+    <string name="Question">Khanh Hoang dep trai?</string>
+    <string name="correct">Correct</string>
+    <string name="incorect">Incorrect</string>
+    <string name="text_plain1">What kind of coffee?</string>
+    <string name="text_plain2">What else in your coffee?</string>
+    <string name="text_radio1">Decaf</string>
+    <string name="text_radio2">Colombian</string>
+    <string name="text_radio3">Expresso</string>
+    <string name="text_cb1">Cream</string>
+    <string name="text_cb2">Sugar</string>
+    <string name="text_bt">Pay</string>
+
+</resources>
